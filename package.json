@@ -23,7 +23,7 @@
     "pretest": "npm run build",
     "site": "cp src/site/* docs/",
     "docs": "documentation build src/js/** -f html -o docs/lib",
-    "travis": "npm run build && npm run test && npm run coverage"
+    "travis": "npm run coverage"
   },
   "repository": {
     "type": "git",
