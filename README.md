@@ -1,6 +1,18 @@
 # nodelike
 A node based roguelike
 
+
+
+
+## Early publish
+
+I had to publish this before it was done because someone tried to abuse the NPM support team to steal the repo name
+
+Needless to say all his stuff is empty 🙄
+
+
+
+
 ## we do in fact need stinking badges
 such as
 
