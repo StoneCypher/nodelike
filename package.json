@@ -1,6 +1,6 @@
 {
   "name": "nodelike",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A node roguelike",
   "main": "build/nodelike.es5.js",
   "scripts": {
@@ -62,8 +62,15 @@
     "coveralls": "^2.13.1",
     "documentation": "^4.0.0-rc.1",
     "eslint": "^4.2.0",
-    "eslint-config-stonecypher": "^1.4.0",
-    "eslint-plugin-flowtype": "^2.35.0",
+    "eslint-config-stonecypher": "^1.15.7",
+    "eslint-plugin-ava": "^4.3.0",
+    "eslint-plugin-flowtype": "^2.39.1",
+    "eslint-plugin-fp": "^2.3.0",
+    "eslint-plugin-jsdoc": "^3.2.0",
+    "eslint-plugin-new-with-error": "^1.1.0",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-react": "^7.5.1",
+    "eslint-plugin-unicorn": "^3.0.0",
     "flow-bin": "^0.50.0",
     "nyc": "^11.0.3",
     "rimraf": "^2.6.1"
