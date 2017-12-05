@@ -1,21 +1,44 @@
 # nodelike
 A node based roguelike
 
-This repo is the basis of a series of tutorials in Javascript.  Installing will get the latest 
-version according to the author's development path; install at a given version to get the 
+This repo is the basis of a series of tutorials in Javascript.  Installing will get the latest
+version according to the author's development path; install at a given version to get the
 version relevant to that step in the tutorial.
 
-This is part of a video series that comes as a reification of 
+This is part of a video series that comes as a reification of
 [this Reddit thread](https://www.reddit.com/r/javascript/comments/3r387p/how_hard_is_it_to_make_a_game_in_javascript_with/)
 on how to make a text-mode game in Javascript.
 
-The end result is actually a tutorial on how to be a programmer, from day one.
+The end result is actually a simplistic tutorial on one way to look at being a programmer, which touches only on the
+node ecosystem.  This is not a comprehensive "how to program;" just one quick bootstrap that lets a person see one
+approach, despite being new.
+
+The end result is a playable console game, installable directly from `npm`.
 
 
 
 
-## we do in fact need stinking badges
+
+## The plan
+
+We're going to:
+
+1. Build the actual `roguelike` out in the major-version-0s
+1. Rebuild the thing from the ground up as a plausible set of not-practiced-developer steps in the major-version-1s
+1. Construct the website
+1. Write the written tutorial steps, akin to the Reddit post
+1. Make the videos
+
+
+
+
+
+## we do, in fact, need stinking badges
 such as
+
+
+
+
 
 ### status
 
