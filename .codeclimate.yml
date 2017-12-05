@@ -16,6 +16,7 @@ ratings:
   - "**.js"
   - "**.jsx"
 exclude_paths:
+- build/
 - dist/
 - docs/
 - src/js/tests/
